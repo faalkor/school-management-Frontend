@@ -14,7 +14,7 @@ Construída com **React.js** (Create React App) e consumindo a API REST do backe
 ✔ Redux / Context
 ✔ Variáveis de ambiente
 
-> Este projeto é o frontend que consome a API do **School Management API REST**[https://github.com/faalkor/school-management-API-REST].
+> Este projeto é o frontend que consome a API do [**School Management API REST**](https://github.com/faalkor/school-management-API-REST).
 
 ---
 
@@ -57,5 +57,5 @@ npm start
 ### 5. O app abrirá automaticamente em
 
 ```bash
-[npm start](http://localhost:3000)
+(http://localhost:3000)
 ```

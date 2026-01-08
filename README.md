@@ -57,5 +57,5 @@ npm start
 ### 5. O app abrirá automaticamente em
 
 ```bash
-(http://localhost:3000)
+http://localhost:3000
 ```
